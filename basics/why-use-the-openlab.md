@@ -8,4 +8,4 @@ comment_status: closed
 
 This is a new help doc and hasn't been written yet.
 
-![](/_images/IMG_2036.jpg "kittens are cute")
+![kitten](/_images/IMG_2036.jpg "kittens are cute")
