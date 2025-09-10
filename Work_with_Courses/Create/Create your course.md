@@ -1,4 +1,15 @@
+---
+title: Create your Course
+taxonomy:
+    category:
+        - work-with-courses/create
+comment_status: closed
+---
 1. After logging in, click Courses in the top menu, then click + Create / Clone a Course. Or, click on the My OpenLab icon in the top menu and select My Courses in the menu. On the My Courses page, click + Create / Clone a Course at the top of the page.
+
+![Create/Clone Link](/_images/CreateCourse1.png "Creating a course from the courses directory")
+
+![Create/Clone Link](/_images/CreateCourse2.png "Creating a course from My Courses")
 
 ## Step One: Profile
 
@@ -49,17 +60,22 @@ Selecting the site template
 
 Even if you want your course to be private, you might want to choose this option for the first few weeks of the semester because it is easier for students to join.
 
-This is a private course:
+<details>
+<summary>This is a private course:</summary>
 
-The course profile and related content and activity will only be visible to members of the course.
-The course profile will be listed in the course directory and search results.
-Only OpenLab members who request membership and are accepted by the professor may join this course.
+* The course profile and related content and activity will only be visible to members of the course.
+* The course profile will be listed in the course directory and search results.
+* Only OpenLab members who request membership and are accepted by the professor may join this course.
+</details>
+
 This is a hidden course:
 
-The course profile, related content, and activity will only be visible only to members of the course.
-The course profile will NOT be listed in the course directory and search results.
-Only OpenLab members who are invited may join this course.
-Site Privacy Settings
+* The course profile, related content, and activity will only be visible only to members of the course.
+* The course profile will NOT be listed in the course directory and search results.
+* Only OpenLab members who are invited may join this course.
+
+### Site Privacy Settings
+
 2. Next, choose the privacy settings for your course site.
 
 Public
