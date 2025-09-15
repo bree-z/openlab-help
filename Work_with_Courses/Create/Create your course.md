@@ -56,10 +56,11 @@ Site template screenshot
 
 <details>
 <summary>This is a public course:</summary>
-
-* The course profile and related content and activity will be visible to the public, whether or not they are members of the OpenLab.
-* The course profile will be listed in the OpenLab course directory and search results.
-* Any OpenLab member may join this course.
+<ul>
+<li>The course profile and related content and activity will be visible to the public, whether or not they are members of the OpenLab.</li>
+<li>The course profile will be listed in the OpenLab course directory and search results.</li>
+<li>Any OpenLab member may join this course.</li>
+</ul>
 </details>
 
 Even if you want your course to be private, you might want to choose this option for the first few weeks of the semester because it is easier for students to join.
