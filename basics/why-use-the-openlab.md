@@ -6,4 +6,8 @@ taxonomy:
 comment_status: closed
 ---
 
-> :bulb: **Tip:** This is a new help doc and hasn't been written yet.
+> This is a new help doc and hasn't been written yet. This is a blockquote.
+
+Here's some regular text.
+
+> :bulb: **Tip:** This is a tip.
