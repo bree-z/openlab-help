@@ -7,9 +7,9 @@ comment_status: closed
 ---
 After logging in, click Courses in the top menu, then click + Create / Clone a Course. Or, click on the My OpenLab icon in the top menu and select My Courses in the menu. On the My Courses page, click + Create / Clone a Course at the top of the page.
 
-![Create/Clone Link](/_images/CreateCourse1.png "Creating a course from the courses directory")
+![""](/_images/CreateCourse1.png "Creating a course from the courses directory")
 
-![Create/Clone Link](/_images/CreateCourse2.png "Creating a course from My Courses")
+![""](/_images/CreateCourse2.png "Creating a course from My Courses")
 
 ## Step One: Profile
 
