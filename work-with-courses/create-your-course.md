@@ -62,24 +62,30 @@ Site template screenshot
 <li>Any OpenLab member may join this course.</li>
 </ul>
 </details>
-
+<br />
 Even if you want your course to be private, you might want to choose this option for the first few weeks of the semester because it is easier for students to join.
+<br />
 
 <details>
 <summary>This is a private course:</summary>
 
-* The course profile and related content and activity will only be visible to members of the course.
-* The course profile will be listed in the course directory and search results.
-* Only OpenLab members who request membership and are accepted by the professor may join this course.
+ul>
+<li>The course profile and related content and activity will only be visible to members of the course.</li>
+<li>The course profile will be listed in the course directory and search results.</li>
+<li>Only OpenLab members who request membership and are accepted by the professor may join this course.</li>
+</ul>
 </details>
+<br />
 
 <details>
 <summary>This is a hidden course:</summary>
-
-* The course profile, related content, and activity will only be visible only to members of the course.
-* The course profile will NOT be listed in the course directory and search results.
-* Only OpenLab members who are invited may join this course.
+ul>
+<li>The course profile, related content, and activity will only be visible only to members of the course.</li>
+<li>The course profile will NOT be listed in the course directory and search results.</li>
+<li>Only OpenLab members who are invited may join this course.</li>
+</ul>   
 </details>
+<br />
 
 ### Site Privacy Settings
 
@@ -134,7 +140,7 @@ Screenshot
 
 Screenshot
 
-2\. After you click **Finish** you will see your new Course Profile page!  From here, you can (a) change settings such as privacy, Course description, or (b) change your avatar.  From your Course Profile you can also access your (c) Course Site and ~[Dashboard](https://openlab.citytech.cuny.edu/blog/help/what-is-the-site-dashboard/)~ (the admin panel, where you will edit and add content to your Course Site).
+2\. After you click **Finish** you will see your new Course Profile page!  From here, you can (a) change settings such as privacy, Course description, or (b) change your avatar.  From your Course Profile you can also access your (c) Course Site and [Dashboard](https://openlab.citytech.cuny.edu/blog/help/what-is-the-site-dashboard/) (the admin panel, where you will edit and add content to your Course Site).
 
 Screenshot
 
