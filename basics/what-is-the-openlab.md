@@ -25,5 +25,6 @@ The OpenLab has also been created for the City Tech community by a team that inc
 
 ---
 
-The OpenLab is part of a five-year initiative at City Tech called “A Living Laboratory: Revitalizing General Education for a 21st-Century College of Technology,” funded by the U. S. Department of Education, under its Strengthening Hispanic-Serving Institutions (HSI) Title V Program. Learn more about the “Living Lab.”
+The OpenLab was part of a five-year initiative at City Tech called “A Living Laboratory: Revitalizing General Education for a 21st-Century College of Technology,” funded by the U. S. Department of Education, under its Strengthening Hispanic-Serving Institutions (HSI) Title V Program. Learn more about the “Living Lab.”
 
+test change
