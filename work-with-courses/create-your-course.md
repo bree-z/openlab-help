@@ -54,18 +54,19 @@ Site template screenshot
 
 **1\.** Choose your Profile privacy settings.  These settings control the privacy of the course profile, and are different from the course site, which you will choose next. You can change the settings at any time.
 
-<details>
-<summary>This is a public course:</summary>
-<ul>
+<div class="wp-block-advgb-accordion-item advgb-accordion-item" style="margin-bottom:15px"><div class="advgb-accordion-header" style="background-color:#000;color:#eee;border-style:solid;border-width:1px;border-radius:2px"><span class="advgb-accordion-header-icon accordion-state"><svg class="advgb-icon-closed" fill="#fff" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="none" d="M0,0h24v24H0V0z"></path><path d="M13,7h-2v4H7v2h4v4h2v-4h4v-2h-4V7z M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,20 c-4.41,0-8-3.59-8-8s3.59-8,8-8s8,3.59,8,8S16.41,20,12,20z"></path></svg><svg class="advgb-icon-opened" fill="#fff" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="none" d="M0,0h24v24H0V0z"></path><path d="M7,11v2h10v-2H7z M12,2C6.48,2,2,6.48,2,12s4.48,10,10,10s10-4.48,10-10S17.52,2,12,2z M12,20 c-4.41,0-8-3.59-8-8s3.59-8,8-8s8,3.59,8,8S16.41,20,12,20z"></path></svg></span><h4 class="advgb-accordion-header-title" style="color:inherit">This is a public course:</h4></div><div class="advgb-accordion-body" style="border-style:solid !important;border-width:1px !important;border-color:undefined !important;border-top:none !important;border-radius:2px !important"><!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
 <li>The course profile and related content and activity will be visible to the public, whether or not they are members of the OpenLab.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>The course profile will be listed in the OpenLab course directory and search results.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
 <li>Any OpenLab member may join this course.</li>
-</ul>
-</details>
-<br />
-Even if you want your course to be private, you might want to choose this option for the first few weeks of the semester because it is easier for students to join.
-<br />
-<br />
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div></div>
 
 <details>
 <summary>This is a private course:</summary>
