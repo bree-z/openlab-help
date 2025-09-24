@@ -15,4 +15,3 @@ This is also where you can recover your password if you’ve lost it. Simply cli
 2. You can also log in from any page or site on the OpenLab by clicking **Log In** at the top right corner of your screen.
 
 <img width="1200" height="356" alt="LoggingIn1" src="https://github.com/user-attachments/assets/226b6856-2fa4-4792-b413-a77ce4bb2854" />
-
