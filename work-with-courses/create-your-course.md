@@ -3,7 +3,6 @@ title: Create your Course
 taxonomy:
     category:
         - work-with-courses
-            - create
 comment_status: closed
 ---
 After logging in, click Courses in the top menu, then click + Create / Clone a Course. Or, click on the My OpenLab icon in the top menu and select My Courses in the menu. On the My Courses page, click + Create / Clone a Course at the top of the page.
